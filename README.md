@@ -16,6 +16,6 @@ This is the first project of KADE (Kotlin Android Developer Expert) course in di
 1. [Glide](https://bumptech.github.io/glide/) - Fast and efficient image loading for Android 
 
 # Please be Noted
-For those who still do the project in KADE course please use this as reference only. Do not exactly copy this project without understand the concepts and flows of the codes. Hope this will help you to develop more project.
+For those who still do the project in KADE course please use this as reference only. Hope this will help you to develop more project.
 
 
